@@ -1,0 +1,6 @@
+server.port: 8060
+
+security:
+  jwt:
+    username: bozgur
+    password: bozgur
